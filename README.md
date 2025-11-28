@@ -1,1 +1,2 @@
-# ayufelia
+git init
+git remote add
